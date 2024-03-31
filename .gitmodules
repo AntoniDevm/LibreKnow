@@ -4,3 +4,6 @@
 [submodule "LibreCS"]
 	path = LibreCS
 	url = https://github.com/AntoniDevm/LibreCS.git
+[submodule "LibreAlgebra"]
+	path = LibreAlgebra
+	url = https://github.com/AntoniDevm/LibreAlgebra.git
