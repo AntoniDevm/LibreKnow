@@ -1,3 +1,6 @@
 [submodule "LibreEconomics"]
 	path = LibreEconomics
 	url = https://github.com/AntoniDevm/LibreEconomics.git
+[submodule "LibreCS"]
+	path = LibreCS
+	url = https://github.com/AntoniDevm/LibreCS.git
