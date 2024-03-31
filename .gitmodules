@@ -1,0 +1,3 @@
+[submodule "LibreEconomics"]
+	path = LibreEconomics
+	url = https://github.com/AntoniDevm/LibreEconomics.git
